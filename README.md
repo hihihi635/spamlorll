@@ -2,8 +2,7 @@
 
 # -set up google cloud:
 
-git clone https://github.com/hieu123xxx/vexsms
-
+git clone https://github.com/hihihi635/spamlorll
 cd vexsms
 
 python setup.py
@@ -16,8 +15,7 @@ pkg install python
 
 pkg update
 
-git clone https://github.com/hieu123xxx/vexsms
-
+git clone https://github.com/hihihi635/spamlorll
 cd vexsms
 
 python setup.py
